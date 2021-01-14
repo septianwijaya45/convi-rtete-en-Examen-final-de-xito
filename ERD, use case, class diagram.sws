@@ -5,7 +5,8 @@
 <Workspace>
 	<Local Expanded="Yes">
 		<Model Expanded="Yes" ID="{66504B05-92D9-4C6B-BD5F-AA580F33B40B}" Loaded="No" Name="Dayinta" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="ERD/Dayinta.cdm"/>
-		<Model ID="{5624C0E5-CDE8-482E-8C64-1012F82232F0}" Loaded="No" Name="Septian" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="ERD/Septian.cdm"/>
+		<Model ID="{5624C0E5-CDE8-482E-8C64-1012F82232F0}" Name="Septian" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="ERD/Septian.cdm"/>
+		<Model Expanded="Yes" ID="{498D0479-7AEE-46DB-9F8F-B9B81A6253D3}" Name="Conceptual Data_1" Selected="Yes" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="ERD/candrafoodKeuangan.cdm"/>
 		<Model Expanded="Yes" ID="{498D0479-7AEE-46DB-9F8F-B9B81A6253D3}" Loaded="No" Name="Conceptual Data_1" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="ERD/candrafoodKeuangan.cdm"/>
 		<Model ID="{FE7F21F3-6AFE-4EEE-B564-1E5A158971E5}" Loaded="No" Name="tppa dayyyy" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Use Case/tppa dayyyy.oom"/>
 		<Model Expanded="Yes" ID="{62780DC5-6180-4837-8DD7-FC0F9FA996D9}" Loaded="No" Name="TPPA Ertee" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Use Case/tppa ertee.oom"/>
@@ -86,7 +87,8 @@
 		<Model ID="{E2C8DF72-1406-4C60-812D-B97E46A24EF8}" Loaded="No" Name="AdminGaji" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Activity Diagram/Admin/AdminGaji.oom"/>
 		<Model ID="{4F0E1A8C-660D-4AA1-B25E-EF98C9F2E628}" Loaded="No" Name="AdminFormKebutuhanLain" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Activity Diagram/Admin/AdminFormKebutuhanLain.oom"/>
 		<Model ID="{E200C3DF-E2A9-4366-9CA3-FB996526D0C2}" Loaded="No" Name="AdminKebutuhanLain" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Activity Diagram/Admin/AdminKebutuhanLain.oom"/>
-		<Model Expanded="Yes" ID="{C6D1E1EA-6B77-4CF2-9D81-76B3E9BDA5CB}" Name="Proses Bisnis Septian" Selected="Yes" Type="{3D3C409C-B60D-430E-A1C4-B880653AC634}" URL="Proses Bisnis/Proses Bisnis Septian.bpm"/>
+		<Model Expanded="Yes" ID="{C6D1E1EA-6B77-4CF2-9D81-76B3E9BDA5CB}" Loaded="No" Name="Proses Bisnis Septian" Type="{3D3C409C-B60D-430E-A1C4-B880653AC634}" URL="Proses Bisnis/Proses Bisnis Septian.bpm"/>
+		<Model Expanded="Yes" ID="{66504B05-92D9-4C6B-BD5F-AA580F33B40B}" Name="Dayinta" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="ERD/Dayinta.cdm"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
